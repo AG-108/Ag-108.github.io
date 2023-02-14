@@ -11,32 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
++ August 2018 – Present
+    Shanghai Jiaotong University, Shanghai Bachelor of Applied Mathematics
+    + Working towards a mathematics degree
+    + Chosen by the strengthening basic disciplines program conducted by the Ministry of Education of the People's Republic of China
+    + 3.53 GPA, ranks 9/43
+    + Have won the Guo Chenchen Outstanding Student Scholarship
++ September 2018 – June 2021
+    Haimen Middle School, Nantong, Jiangsu Province High School Diploma
+    + Graduated with High Honors
+    + Vice President, Student Science and Technology Association
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Numerical Analysis
+* Programming
+  * C/C++
+  * Python
+  * MATLAB
+  * Mathematica
+  * JavaScript
+* Machine Learning(Tensorflow, CNN)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,7 +49,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
