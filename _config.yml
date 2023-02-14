@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://ag-108.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AG-108/AG-108.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -85,7 +85,7 @@ author:
   bio              : "Hardworking college student with a motivated attitude and a variety of powerful skills in Mathematics and CS. Adept in programming, especially C++ and Python 3. Committed to ODE and Machine Learning."
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "ag-108@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
