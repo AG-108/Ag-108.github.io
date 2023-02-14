@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shi Yifan"
+title                    : "Ag-108"
 title_separator          : "-"
 name                     : &name "Shi Yifan"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shi Yifan"
   avatar           : "photo1.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Hardworking college student with a motivated attitude and a variety of powerful skills in Mathematics and CS. Adept in programming, especially C++ and Python 3. Committed to ODE and Machine Learning."
   location         : "Shanghai, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
